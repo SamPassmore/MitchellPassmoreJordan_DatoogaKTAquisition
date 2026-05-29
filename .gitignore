@@ -1,0 +1,6 @@
+ignore/
+figures/
+results/
+.Rproj.user/
+.Rhistory
+Rplots.pdf
